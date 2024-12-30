@@ -1,0 +1,27 @@
+1 网站导航添加contact us(保留原有链接URL)
+首页及导航2 首页learn more链接
+3 contact us页面内容调整 (添加手机号，表单上移，去掉重复)
+主图是否能修改成轮播参考https://www.yundapm.com/baoshi-paper-factory/
+主图右侧按钮添加背景颜色
+主图右侧简介内容精简
+voutube视频嵌入链接改造 (?rel=0)
+产品详情页
+产品与页面视频内容对应 (参考https://www.yundapm.com/
+product/superscreen/)
+图文结合，详情页缺少产品图片，最好能与文字内容一致
+yundapm.com o网站优化
+相关产品及页面的内链添加
+相关产品
+solution页面 (如果案例多可做成列表页)
+案例详情页
+按钮CSS样式
+丰富下内容及图片
+NEWS
+新闻主图丢失
+special report没有内容，可以删除
+所有页面的TKD
+测试所有链接地址
+其它问题
+所有页面响应式检查
+测试表单
+当前页面所在导航颜色
